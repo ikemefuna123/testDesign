@@ -13,9 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ikemefuna123.github.io/testDesign/](https://ikemefuna123.github.io/testDesign/)
 
 ## My process
 
@@ -36,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ikemefuna123)
+- Frontend Mentor - [@ikemefuna123](https://www.frontendmentor.io/profile/ikemefuna123)
 - Twitter - [@Prince__1024](https://www.twitter.com/Prince__1024)
 
 PS. Please I will like  to get a learning partner or a mentor on further projects.
